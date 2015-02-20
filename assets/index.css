@@ -1,6 +1,11 @@
+html{
+  max-width: 3000px;
+}
 body {
   padding-top: 70px;
   background: transparent url(/media/bg-image.jpg) top center;
   background-repeat: no-repeat;
   background-color: #000;
+  background-position: 0 50px;
+  background-size: 100%;
 }
